@@ -6,7 +6,7 @@ A hands-on CI/CD project. Jenkins runs on an AWS EC2 Ubuntu server. The pipeline
 
 ## Architecture
 
-![Jenkins CI/CD pipeline architecture diagram by Surajsinh Pawar](screenshots/00-architecture-diagram.png)
+!![Jenkins CI/CD pipeline architecture diagram by Surajsinh Pawar](00-architecture-diagram.png)
 
 *Architecture diagram by Surajsinh Pawar.*
 
